@@ -1,0 +1,61 @@
+C:\Users\Trushangi\AppData\Local\Programs\Python\Python310\python.exe C:/Users/Trushangi/PycharmProjects/atm/atm2.py
+Welcome to ABC Bank!!
+Insert your card
+Enter username: User1
+Enter PIN: 2620
+1. Display Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Transaction History
+6. Exit
+Enter choice (1-6): 1
+Your balance is $2000
+1. Display Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Transaction History
+6. Exit
+Enter choice (1-6): 2
+Enter deposit amount: 500
+Deposited $500.0. Your balance is $2500.0
+1. Display Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Transaction History
+6. Exit
+Enter choice (1-6): 3
+Enter withdrawal amount: 800
+Withdrew $800.0. Your balance is $1700.0
+1. Display Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Transaction History
+6. Exit
+Enter choice (1-6): 4
+Enter transfer amount: 600
+Enter username: User2
+Enter PIN: 2003
+Transferred $600.0 to User2. Your balance is $1100.0
+1. Display Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Transaction History
+6. Exit
+Enter choice (1-6): 5
+Transaction History:
+Deposited $500.0
+Withdrew $800.0
+Transferred $600.0 to User2
+1. Display Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. Transaction History
+6. Exit
+Enter choice (1-6): 6
+Thank you . Goodbye!
